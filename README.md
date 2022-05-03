@@ -1,3 +1,7 @@
+MODIFICATIONS: changed the Create_a_dataset_from_vidoes_and_labels.m file to convert the given MATLAB dataset into yolov5 format. Follow the instructions in the file's comments.
+
+
+
 # Drone-detection-dataset
 Dataset containing IR, visible and audio data that can be used to train and evaluate drone detection sensors and systems.
 
